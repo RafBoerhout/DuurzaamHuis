@@ -1,6 +1,5 @@
 "# DuurzaamHuis" 
 
-Sam Derakhshandeh,\
 Matthew Willems,\
 Raf Boerhout,
 
